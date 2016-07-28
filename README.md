@@ -1,2 +1,5 @@
 # hello-world
-A short description 
+
+Hola!
+
+I am Miles, a novice coder looking to gain expeirence and knowledge in the coding world.
